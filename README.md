@@ -1,12 +1,13 @@
-<img width="499" alt="Screenshot 2023-09-20 at 16 46 45" src="https://github.com/MariaKar1991/bootstrap-website/assets/82884186/3a2b68aa-5bd3-4d73-856e-9494ab36962b"># bootstrap-bootcamp-website Utilization, via a bootcamp website example.
+<img width="499" alt="Screenshot 2023-09-20 at 16 46 39" src="https://github.com/MariaKar1991/bootstrap-website/assets/82884186/b16a2f45-4dea-48d9-bb59-5b4fb730f816"><img width="499" alt="Screenshot 2023-09-20 at 16 46 45" src="https://github.com/MariaKar1991/bootstrap-website/assets/82884186/3a2b68aa-5bd3-4d73-856e-9494ab36962b"># bootstrap-bootcamp-website Utilization, via a bootcamp website example.
 ## Link to Vercel: https://bootstrap-website-liart.vercel.app/
-<img width="498" alt="Screenshot 2023-09-20 at 16 44 41" src="https://github.com/MariaKar1991/bootstrap-website/assets/82884186/ba8cf830-9ea2-457c-9f45-92a829522152">
-<img width="499" alt="Screenshot 2023-09-20 at 16 45 29" src="https://github.com/MariaKar1991/bootstrap-website/assets/82884186/939d47bc-31d0-4b66-9753-e470da2ee65f">
-<img width="499" alt="Screenshot 2023-09-20 at 16 45 44" src="https://github.com/MariaKar1991/bootstrap-website/assets/82884186/ba5a6302-c43a-4d1d-8ad9-15615ef568f9">
-<img width="499" alt="Screenshot 2023-09-20 at 16 46 02" src="https://github.com/MariaKar1991/bootstrap-website/assets/82884186/250ec8f0-adea-44f1-937b-1a53ec88b1f6">
-<img width="499" alt="Screenshot 2023-09-20 at 16 46 15" src="https://github.com/MariaKar1991/bootstrap-website/assets/82884186/6b4b6e85-7f6a-4a11-95e9-2d80189313e7">
-<img width="499" alt="Scr<img width="499" alt="Screenshot 2023-09-20 at 16 46 39" src="https://github.com/MariaKar1991/bootstrap-website/assets/82884186/88338b9b-77e7-43f4-8d2d-b944a12d1dde">
-eenshot 2023-09-20 at 16 46 25" src="https://github.com/MariaKar1991/bootstrap-website/assets/82884186/aefb8db6-9d29-4569-ab83-46fb0915a9c5">
-<img width="1036" alt="Screenshot 2023-09-20 at 16 50 10" src="https://github.com/MariaKar1991/bootstrap-website/assets/82884186/f67ec13f-def8-44d1-a104-4cb0d0e0e228">
-![Uploading Screenshot 2023-09-20 at 16.46.![Uploading Screenshot 2023-09-20 at 16.46.58.png…]()
-45.png…]()
+<img width="1036" alt="Screenshot 2023-09-20 at 16 50 10" src="https://github.com/MariaKar1991/bootstrap-website/assets/82884186/c2aebd28-f56d-4515-b7ec-22c36979f4f1">
+<img width="498" alt="Screenshot 2023-09-20 at 16 44 41" src="https://github.com/MariaKar1991/bootstrap-website/assets/82884186/21e15824-416c-469f-b622-dc4aedbd3b53">
+<img width="499" alt="Screenshot 2023-09-20 at 16 45 29" src="https://github.com/MariaKar1991/bootstrap-website/assets/82884186/af8a8765-02f4-40f9-a620-931798891051">
+<img width="499" alt="Screenshot 2023-09-20 at 16 45 44" src="https://github.com/MariaKar1991/bootstrap-website/assets/82884186/4c0dae3b-bfd5-4aab-9212-6293688ca891">
+<img width="499" alt="Screenshot 2023-09-20 at 16 46 15" src="https://github.com/MariaKar1991/bootstrap-website/assets/82884186/daadf387-9b16-4b45-a8e9-908eaeca22da">
+<img width="499" alt="Screenshot 2023-09-20 at 16 46 25" src="https://github.com/MariaKar1991/bootstrap-website/assets/82884186/feec587d-550e-4c3e-abf9-61836c376108">
+<img width="499" alt="Screenshot 2023-09-20 at 16 46 45" src="https://github.com/MariaKar1991/bootstrap-website/assets/82884186/554b7d19-e806-4d8a-bdda-14c5a8e056c5">
+<img width="499" alt="Screenshot 2023-09-20 at 16 46 58" src="https://github.com/MariaKar1991/bootstrap-website/assets/82884186/c5b569e2-64de-4e4f-ad2f-98461fb50b06">
+
+
+
