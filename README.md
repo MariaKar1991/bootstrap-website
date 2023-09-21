@@ -1,5 +1,6 @@
-<img width="499" alt="Screenshot 2023-09-20 at 16 46 39" src="https://github.com/MariaKar1991/bootstrap-website/assets/82884186/b16a2f45-4dea-48d9-bb59-5b4fb730f816"><img width="499" alt="Screenshot 2023-09-20 at 16 46 45" src="https://github.com/MariaKar1991/bootstrap-website/assets/82884186/3a2b68aa-5bd3-4d73-856e-9494ab36962b"># bootstrap-bootcamp-website Utilization, via a bootcamp website example.
+# bootstrap-bootcamp-website Utilization, via a bootcamp website example.
 ## Link to Vercel: https://bootstrap-website-liart.vercel.app/
+
 <img width="1036" alt="Screenshot 2023-09-20 at 16 50 10" src="https://github.com/MariaKar1991/bootstrap-website/assets/82884186/c2aebd28-f56d-4515-b7ec-22c36979f4f1">
 <img width="498" alt="Screenshot 2023-09-20 at 16 44 41" src="https://github.com/MariaKar1991/bootstrap-website/assets/82884186/21e15824-416c-469f-b622-dc4aedbd3b53">
 <img width="499" alt="Screenshot 2023-09-20 at 16 45 29" src="https://github.com/MariaKar1991/bootstrap-website/assets/82884186/af8a8765-02f4-40f9-a620-931798891051">
